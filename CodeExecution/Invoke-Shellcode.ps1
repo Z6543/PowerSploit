@@ -50,5 +50,4 @@ function Invoke-Shellcode
     $Force = $False
 )
 
-throw 'Something terrible may have just happened and you have no idea what because you just arbitrarily download crap from the Internet and execute it.'
 }
